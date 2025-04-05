@@ -1,0 +1,7 @@
+# Frontend dependencies
+react
+next
+tailwindcss
+@headlessui/react==1.7.15
+@heroicons/react==2.0.18
+
